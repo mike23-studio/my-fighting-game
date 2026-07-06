@@ -1,0 +1,358 @@
+{
+  "frame_width": 80,
+  "frame_height": 100,
+  "characters": {
+    "kaion": {
+      "animations": {
+        "idle": {
+          "file": "kaion/idle.png",
+          "frame_count": 20,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": true
+        },
+        "walk": {
+          "file": "kaion/walk.png",
+          "frame_count": 16,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": true
+        },
+        "jump": {
+          "file": "kaion/jump.png",
+          "frame_count": 13,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "crouch": {
+          "file": "kaion/crouch.png",
+          "frame_count": 5,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "punch": {
+          "file": "kaion/punch.png",
+          "frame_count": 7,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "kick": {
+          "file": "kaion/kick.png",
+          "frame_count": 7,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "block": {
+          "file": "kaion/block.png",
+          "frame_count": 5,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "block_crouch": {
+          "file": "kaion/block_crouch.png",
+          "frame_count": 5,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "hit_knockdown": {
+          "file": "kaion/hit_knockdown.png",
+          "frame_count": 10,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "special_1_homing_wave": {
+          "file": "kaion/special_1_homing_wave.png",
+          "frame_count": 10,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "special_2_soul_sphere": {
+          "file": "kaion/special_2_soul_sphere.png",
+          "frame_count": 10,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "special_3_instant_step": {
+          "file": "kaion/special_3_instant_step.png",
+          "frame_count": 7,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        }
+      }
+    },
+    "reiga": {
+      "animations": {
+        "idle": {
+          "file": "reiga/idle.png",
+          "frame_count": 20,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": true
+        },
+        "walk": {
+          "file": "reiga/walk.png",
+          "frame_count": 16,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": true
+        },
+        "jump": {
+          "file": "reiga/jump.png",
+          "frame_count": 13,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "crouch": {
+          "file": "reiga/crouch.png",
+          "frame_count": 5,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "punch": {
+          "file": "reiga/punch.png",
+          "frame_count": 7,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "kick": {
+          "file": "reiga/kick.png",
+          "frame_count": 7,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "block": {
+          "file": "reiga/block.png",
+          "frame_count": 5,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "block_crouch": {
+          "file": "reiga/block_crouch.png",
+          "frame_count": 5,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "hit_knockdown": {
+          "file": "reiga/hit_knockdown.png",
+          "frame_count": 10,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "special_1_void_howl": {
+          "file": "reiga/special_1_void_howl.png",
+          "frame_count": 7,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "special_2_fang_rush": {
+          "file": "reiga/special_2_fang_rush.png",
+          "frame_count": 10,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "special_3_ruin_mask": {
+          "file": "reiga/special_3_ruin_mask.png",
+          "frame_count": 10,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        }
+      }
+    },
+    "rubbo": {
+      "animations": {
+        "idle": {
+          "file": "rubbo/idle.png",
+          "frame_count": 20,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": true
+        },
+        "walk": {
+          "file": "rubbo/walk.png",
+          "frame_count": 16,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": true
+        },
+        "jump": {
+          "file": "rubbo/jump.png",
+          "frame_count": 13,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "crouch": {
+          "file": "rubbo/crouch.png",
+          "frame_count": 5,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "punch": {
+          "file": "rubbo/punch.png",
+          "frame_count": 7,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "kick": {
+          "file": "rubbo/kick.png",
+          "frame_count": 7,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "block": {
+          "file": "rubbo/block.png",
+          "frame_count": 5,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "block_crouch": {
+          "file": "rubbo/block_crouch.png",
+          "frame_count": 5,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "hit_knockdown": {
+          "file": "rubbo/hit_knockdown.png",
+          "frame_count": 10,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "special_1_stretch_fist": {
+          "file": "rubbo/special_1_stretch_fist.png",
+          "frame_count": 7,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "special_2_gatling_barrage": {
+          "file": "rubbo/special_2_gatling_barrage.png",
+          "frame_count": 10,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "special_3_spin_drop_kick": {
+          "file": "rubbo/special_3_spin_drop_kick.png",
+          "frame_count": 10,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        }
+      }
+    },
+    "kaze": {
+      "animations": {
+        "idle": {
+          "file": "kaze/idle.png",
+          "frame_count": 20,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": true
+        },
+        "walk": {
+          "file": "kaze/walk.png",
+          "frame_count": 16,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": true
+        },
+        "jump": {
+          "file": "kaze/jump.png",
+          "frame_count": 13,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "crouch": {
+          "file": "kaze/crouch.png",
+          "frame_count": 5,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "punch": {
+          "file": "kaze/punch.png",
+          "frame_count": 7,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "kick": {
+          "file": "kaze/kick.png",
+          "frame_count": 7,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "block": {
+          "file": "kaze/block.png",
+          "frame_count": 5,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "block_crouch": {
+          "file": "kaze/block_crouch.png",
+          "frame_count": 5,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "hit_knockdown": {
+          "file": "kaze/hit_knockdown.png",
+          "frame_count": 10,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "special_1_spiral_sphere": {
+          "file": "kaze/special_1_spiral_sphere.png",
+          "frame_count": 7,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "special_2_swap_technique": {
+          "file": "kaze/special_2_swap_technique.png",
+          "frame_count": 7,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        },
+        "special_3_shadow_stand": {
+          "file": "kaze/special_3_shadow_stand.png",
+          "frame_count": 7,
+          "frame_width": 80,
+          "frame_height": 100,
+          "loop": false
+        }
+      }
+    }
+  }
+}

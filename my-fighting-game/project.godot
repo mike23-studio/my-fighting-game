@@ -11,8 +11,15 @@ config_version=5
 [application]
 
 config/name="my fighting game"
+run/main_scene="res://scenes/stages/fight_scene.tscn"
 config/features=PackedStringArray("4.7", "Mobile")
 config/icon="res://icon.svg"
+
+[autoload]
+
+InputSetup="*res://scripts/InputSetup.gd"
+AudioManager="*res://scripts/AudioManager.gd"
+GameManager="*res://scripts/GameManager.gd"
 
 [display]
 

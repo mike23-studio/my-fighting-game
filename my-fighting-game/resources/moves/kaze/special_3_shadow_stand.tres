@@ -1,0 +1,18 @@
+[gd_resource type="Resource" script_class="MoveData" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/MoveData.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+move_name = "Shadow Stand"
+animation = "special_3_shadow_stand"
+startup = 8
+active = 4
+recovery = 14
+damage = 18.0
+hitstun = 0.45
+blockstun = 0.22
+knockback = Vector2(260, -60)
+high_hitting = false
+low_hitting = false
+is_special = true

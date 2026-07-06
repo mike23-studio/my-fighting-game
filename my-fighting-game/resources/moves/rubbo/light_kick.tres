@@ -1,0 +1,18 @@
+[gd_resource type="Resource" script_class="MoveData" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/MoveData.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+move_name = "Light Kick"
+animation = "kick"
+startup = 5
+active = 3
+recovery = 10
+damage = 8.0
+hitstun = 0.32
+blockstun = 0.18
+knockback = Vector2(220, -40)
+high_hitting = false
+low_hitting = true
+is_special = false
